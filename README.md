@@ -1,6 +1,7 @@
 # webpack-starter
 Este es el cascaron de mis aplicaciones que usen webpack
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+
+#Este es el proyecto inicial para crear aplicaciones utilizando webpack.
 
 ### Notas:
 
